@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <p align="left">
 
 <div style="display: inline_block">
-<img align="center" height="60" width="120" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" >
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" >
   <img align="center" height="60" width="60" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" >
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" >
+  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" >
   
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60" width="120" />
+  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60" width="60" />
 
-<img align="center" height="60" width="120" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" >	
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" >	
 	
 </div>
 
